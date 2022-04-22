@@ -1,0 +1,25 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    border: 1px solid;
+    height: 37px;
+    border-radius: 5px;
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+}
+.sub-container{
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
